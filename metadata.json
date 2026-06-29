@@ -1,0 +1,6 @@
+{
+  "name": "Moto-Tech Pro",
+  "description": "Aplicación de gestión para mecánicos de Africano Motos, con control de trabajos, motor de comisiones, directorio de clientes y recordatorios de garantías.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
